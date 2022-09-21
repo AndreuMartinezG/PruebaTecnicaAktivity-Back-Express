@@ -1,0 +1,112 @@
+[
+ {
+   "id": 1,
+   "name": "samantha",
+   "family name": "smith",
+   "city": "liverpool",
+   "country": "uk",
+   "events": 9,
+   "trophies": 126,
+   "time-spent": 8892,
+   "points": 5431
+ },
+ {
+   "id": 2,
+   "name": "jane",
+   "family name": "taylor",
+   "city": "london",
+   "country": "uk",
+   "events": 8,
+   "trophies": 122,
+   "time-spent": 8556,
+   "points": 5203
+ },
+ {
+   "id": 3,
+   "name": "james",
+   "family name": "jones",
+   "city": "manchester",
+   "country": "uk",
+   "events": 8,
+   "trophies": 103,
+   "time-spent": 8456,
+   "points": 4915
+ },
+ {
+   "id": 4,
+   "name": "duke",
+   "family name": "wilson",
+   "city": "birmingham",
+   "country": "uk",
+   "events": 9,
+   "trophies": 95,
+   "time-spent": 7390,
+   "points": 4817
+ },
+ {
+   "id": 5,
+   "name": "claire",
+   "family name": "johnson",
+   "city": "newcastle",
+   "country": "uk",
+   "events": 6,
+   "trophies": 86,
+   "time-spent": 7452,
+   "points": 4652
+ },
+ {
+   "id": 6,
+   "name": "john",
+   "family name": "smith",
+   "city": "bristol",
+   "country": "uk",
+   "events": 7,
+   "trophies": 80,
+   "time-spent": 6875,
+   "points": 4451
+ },
+ {
+   "id": 7,
+   "name": "laura",
+   "family name": "williams",
+   "city": "london",
+   "country": "uk",
+   "events": 6,
+   "trophies": 76,
+   "time-spent": 6794,
+   "points": 4023
+ },
+ {
+   "id": 8,
+   "name": "paula",
+   "family name": "davies",
+   "city": "london",
+   "country": "uk",
+   "events": 3,
+   "trophies": 75,
+   "time-spent": 6152,
+   "points": 3951
+ },
+ {
+   "id": 9,
+   "name": "chris",
+   "family name": "martin",
+   "city": "leeds",
+   "country": "uk",
+   "events": 5,
+   "trophies": 68,
+   "time-spent": 5759,
+   "points": 3949
+ },
+ {
+   "id": 10,
+   "name": "thomas",
+   "family name": "edwards",
+   "city": "liverpool",
+   "country": "uk",
+   "events": 2,
+   "trophies": 64,
+   "time-spent": 5566,
+   "points": 3836
+ }
+]

@@ -1,3 +1,6 @@
+//Llamamos al .json con la info de los usuarios en el leaderboard para devolverla al front cuando el usuario realice el Login a modo de respuesta de la BD.
+const data = require('../data/users.json');
+
 const UsuarioController = {};
 
 //Funciones del controlador de usuarios
@@ -22,6 +25,7 @@ UsuarioController.logUsuario = (req, res) => {
 
         //Las credenciales son correctas
         res.status(200).json({
+            data: data,
             name : "Jhon",
             surname : "Smith",
             status : 1
